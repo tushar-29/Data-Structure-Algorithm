@@ -25,4 +25,12 @@ Reccurssion :
     -> Combination
     -> Tower of honoi
     
- Array, Strings, Matrix, Linked List, Stack, Queue, Tree, Graphs, Sorting, Searchings, Famous Algorithms
+ Array :
+    -> Basic notes on array
+    -> 2D array access concept
+    -> Array and pointer access
+    -> Array ADT(append, pop, insert, remove, get_index, sort, search etc...)
+    -> Finding Duplicate in array
+
+
+Strings, Matrix, Linked List, Stack, Queue, Tree, Graphs, Sorting, Searchings, Famous Algorithms

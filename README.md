@@ -62,4 +62,10 @@ Linked List :
     -> Check is looped
     -> Merging the Linked List
     
-Stack, Queue, Tree, Graphs, Sorting, Searchings, Famous Algorithms
+Stack :
+    -> Array Stack With ADT (push, pop, stackTop, isEmpty, isFull etc)
+    -> Linked List Stack With ADT (push, pop, stackTop, isEmpty, isFull etc)
+    -> Convert to Postfix Expression
+    -> Evaluate Postfix Expression
+    
+Queue, Tree, Graphs, Sorting, Searchings, Famous Algorithms

@@ -33,4 +33,13 @@ Reccurssion :
     -> Finding Duplicate in array
 
 
-Strings, Matrix, Linked List, Stack, Queue, Tree, Graphs, Sorting, Searchings, Famous Algorithms
+Strings : 
+    -> length
+    -> check palindrome
+    -> permutation
+    -> reverse
+    -> validation
+    -> change case
+    -> check anagram
+    
+Matrix :Linked List, Stack, Queue, Tree, Graphs, Sorting, Searchings, Famous Algorithms

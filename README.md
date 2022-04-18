@@ -42,4 +42,17 @@ Strings :
     -> change case
     -> check anagram
     
-Matrix :Linked List, Stack, Queue, Tree, Graphs, Sorting, Searchings, Famous Algorithms
+Matrix :
+    -> Diagonal, 
+    -> Lower Triangle
+    -> Upper Triangle
+    -> Toeplitz
+    -> Symmetric
+    -> Spares
+    -> Spares Addition
+    -> Polynomial
+    -> Polynomial Addition
+    
+Linked List :
+    ->
+Stack, Queue, Tree, Graphs, Sorting, Searchings, Famous Algorithms

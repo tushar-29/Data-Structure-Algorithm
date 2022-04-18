@@ -54,5 +54,12 @@ Matrix :
     -> Polynomial Addition
     
 Linked List :
-    ->
+    ->Singled Linked List
+    -> Doubly Linked List
+    -> Circular Singled Linked List
+    -> Circular Doubly Linked List
+    -> Reversing Linked List
+    -> Check is looped
+    -> Merging the Linked List
+    
 Stack, Queue, Tree, Graphs, Sorting, Searchings, Famous Algorithms

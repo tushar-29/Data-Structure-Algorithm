@@ -83,4 +83,12 @@ Tree :
     -> AVL Tree
     -> Red Black Tree
     
-Graphs, Sorting, Searchings, Famous Algorithms
+Graphs :
+    ->Graph Traversal
+    -> BSF
+    -> DFS
+    -> Disjoint
+    
+Sorting :
+    -> 
+Searchings, Famous Algorithms

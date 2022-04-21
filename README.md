@@ -73,4 +73,14 @@ Queue :
     -> Queue using linked list
     -> Circular queue
     
-Tree, Graphs, Sorting, Searchings, Famous Algorithms
+Tree :
+    -> Preorder
+    -> Inorder
+    -> Postorder
+    -> Searching
+    -> Adding Elements
+    -> Romoving Elements
+    -> AVL Tree
+    -> Red Black Tree
+    
+Graphs, Sorting, Searchings, Famous Algorithms

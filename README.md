@@ -88,6 +88,8 @@ Graphs :
     -> BSF
     -> DFS
     -> Disjoint
+    -> Kruskal Algorithms
+    -> Prims Algorithms
     
 Sorting :
     -> Bubble Sorting
@@ -100,5 +102,3 @@ Sorting :
     -> Radix Sorting
     -> Bin Sorting
     
-Famous Algorithms :
-    -> 

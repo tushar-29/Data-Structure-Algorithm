@@ -90,5 +90,15 @@ Graphs :
     -> Disjoint
     
 Sorting :
+    -> Bubble Sorting
+    -> Insertion Sorting
+    -> Selection Sorting
+    -> Merge Sorting
+    -> Quick Sorting
+    -> Count Sorting
+    -> Shell Sorting
+    -> Radix Sorting
+    -> Bin Sorting
+    
+Famous Algorithms :
     -> 
-Searchings, Famous Algorithms

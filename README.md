@@ -68,4 +68,9 @@ Stack :
     -> Convert to Postfix Expression
     -> Evaluate Postfix Expression
     
-Queue, Tree, Graphs, Sorting, Searchings, Famous Algorithms
+Queue :
+    -> Queue using array
+    -> Queue using linked list
+    -> Circular queue
+    
+Tree, Graphs, Sorting, Searchings, Famous Algorithms
